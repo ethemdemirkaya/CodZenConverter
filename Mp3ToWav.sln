@@ -1,0 +1,29 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.34601.136
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Mp3ToWav", "Mp3ToWav\Mp3ToWav.csproj", "{A74AFDA0-BBA6-4025-B4F7-839261029761}"
+EndProject
+Project("{54435603-DBB4-11D2-8724-00A0C9A8B90C}") = "SetupMp3toWav", "SetupMp3toWav\SetupMp3toWav.vdproj", "{64079742-A183-4502-B619-D2D47F924DDB}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{A74AFDA0-BBA6-4025-B4F7-839261029761}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A74AFDA0-BBA6-4025-B4F7-839261029761}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A74AFDA0-BBA6-4025-B4F7-839261029761}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A74AFDA0-BBA6-4025-B4F7-839261029761}.Release|Any CPU.Build.0 = Release|Any CPU
+		{64079742-A183-4502-B619-D2D47F924DDB}.Debug|Any CPU.ActiveCfg = Debug
+		{64079742-A183-4502-B619-D2D47F924DDB}.Release|Any CPU.ActiveCfg = Release
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {5EBEB94C-AAAD-4F04-AC9D-5903D6A59F50}
+	EndGlobalSection
+EndGlobal
